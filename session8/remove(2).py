@@ -6,4 +6,4 @@ txt = input("ngoài ra mình còn thích: ")
 items.append(txt)
 print(items)
 for item in items:
-    print(item,upper()
+    print(item.upper())
